@@ -1,4 +1,4 @@
-package com.company.DateTime;
+package src.com.company.DateTime;
 
 class SpecialString {
     String str;
