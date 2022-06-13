@@ -1,4 +1,4 @@
-package src.com.company.DateTime;
+package src.com.company.Test1.DateTime;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,7 +11,7 @@ public class ArrayTest {
         List<String> list = new ArrayList<>();
         List<String> stringList = new ArrayList<String>();
 
-int i = '5';
+        int i = '5';
         System.out.println(i);
 
 //        All of these solutions work

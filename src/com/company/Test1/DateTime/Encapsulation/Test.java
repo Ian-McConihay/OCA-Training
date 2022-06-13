@@ -1,4 +1,4 @@
-package src.com.company.Encapsulation;
+package src.com.company.Test1.DateTime.Encapsulation;
 
 public class Test {
     private static void m(int x) {

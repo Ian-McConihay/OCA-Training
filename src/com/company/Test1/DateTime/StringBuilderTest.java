@@ -1,4 +1,4 @@
-package com.company.DateTime;
+package src.com.company.Test1.DateTime;
 
 public class StringBuilderTest {
 

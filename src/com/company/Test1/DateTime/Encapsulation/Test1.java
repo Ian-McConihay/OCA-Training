@@ -1,4 +1,4 @@
-package src.com.company.Encapsulation;
+package src.com.company.Test1.DateTime.Encapsulation;
 //Encapsulation uses access modifiers to
 // protect variables and hide them within a class.
 class Message {
