@@ -26,5 +26,18 @@ public class ArrayTest {
 //            }
 //            System.out.print(arr[n]); //Line n1
 //        }
+        short [] arr;
+        arr = new short[3];
+//  you create a new object in the same or next statement
+
+//        byte [] arr = new byte[10];
+//  byte arr has 10 elements set to zero
+//        int [] arr = new int[]{0, 0, 0, 0};
+//  int arr has 4 elements set tow zero
+        /*INSERT*/
+        arr[1] = 5;
+        arr[2] = 10;
+        System.out.println("[" + arr[1] + ", " + arr[2] + "]"); //Line n1
+
     }
 }

@@ -1,4 +1,4 @@
-package src.com.company.Test1.DateTime.Encapsulation;
+package src.com.company.Test1.DateTime;
 
 public class IfElseTest {
     public static void main(String[] args) {

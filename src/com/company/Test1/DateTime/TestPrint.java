@@ -1,4 +1,4 @@
-package src.com.company.Test1.DateTime.Loops;
+package src.com.company.Test1.DateTime;
 
 public class TestPrint {
 //    static and public are interchangeable
